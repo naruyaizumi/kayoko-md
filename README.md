@@ -32,6 +32,7 @@
   </a>
 </p>
 </div>
+
 ## 📋 Table of Contents
 
 - [🏷️ Badges & Info](#-kayoko--whatsapp-bot)
