@@ -93,12 +93,12 @@
 
 ## 🔗 Kontak & Informasi
 
-🌐 **Link Bio**: [naruyaizumi](https://linkbio.co/naruyaizumi)  
-📧 **Email Support**: `sexystyle088@gmail.com`  
-📱 **WhatsApp Owner**: [Klik di sini](https://wa.me/40766498692)  
-📣 **Channel WA Update**: [Join Channel](https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03)  
-👥 **Grup Komunitas**: [Gabung Grup WhatsApp](https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi)
-📷 **Instagram**: [@naruyaizumi](https://instagram.com/naruyaizumi)
+- 🌐 **Link Bio**: [naruyaizumi](https://linkbio.co/naruyaizumi)
+- 📧 **Email Support**: `sexystyle088@gmail.com`
+- 📱 **WhatsApp Owner**: [Klik di sini](https://wa.me/40766498692)
+- 📣 **Channel WA Update**: [Join Channel](https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03)
+- 👥 **Grup Komunitas**: [Gabung Grup WhatsApp](https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi)
+- 📷 **Instagram**: [@naruyaizumi](https://instagram.com/naruyaizumi)
 
 Untuk pertanyaan teknis, bug, atau masukan, kamu bisa langsung kirim lewat email atau DM Instagram.  
 Kita juga punya grup komunitas aktif dan channel update resmi 💌✨
