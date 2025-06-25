@@ -32,7 +32,7 @@
   </a>
 </p>
 </div>
-<!-- markdown -->
+
 # ✨ Kayoko – WhatsApp MD Script
 
 🔐 **Secure. Modular. API-Powered.**  
@@ -40,31 +40,22 @@
 
 ## 📁 Fitur Utama
 
-Full Source — tidak ada bagian terenkripsi atau dikunci.
-
-Modular — setiap fitur berdiri sendiri dan mudah untuk dimodifikasi.
-
-Ukuran ringan ±400MB termasuk dependensi.
-Menggunakan ES Module (ESM) standar modern JavaScript.
-
-Kompatibel dengan Node.js v22 ke atas.
-Minimal dependencies, optimal untuk deployment di VPS berspesifikasi rendah.
-
-Kompatibel dengan PM2 dan lingkungan berbasis Pterodactyl.
+- Full Source — tidak ada bagian terenkripsi atau dikunci.
+- Modular — setiap fitur berdiri sendiri dan mudah untuk dimodifikasi.
+- Ukuran ringan ±400MB termasuk dependensi.
+- Menggunakan ES Module (ESM) standar modern JavaScript.
+- Kompatibel dengan Node.js v22 ke atas.
+- Minimal dependencies, optimal untuk deployment di VPS berspesifikasi rendah.
+- Kompatibel dengan PM2 dan lingkungan berbasis Pterodactyl.
 
 ## 🎯 Fitur Populer
 
-Downloader multi-platform: YouTube, TikTok, IG, Twitter, Pinterest.
-
-Format interaktif: tombol Audio/Video, carousel, katalog WhatsApp.
-
-AI & Tools: YT Summarizer, DeepImage, Chat AI, Image Generator.
-
-Grup Moderation: anti-link, auto-kick, anti-virtex, sensor teks.
-
-Fitur komunitas: RPG system, mini games, quote, lirik, anime tools.
-
-Panel & VPS Commanding: Task Scheduler, Resource Monitor, Auto Deploy.
+- Downloader multi-platform: YouTube, TikTok, IG, Twitter, Pinterest.
+- Format interaktif: tombol Audio/Video, carousel, katalog WhatsApp.
+- AI & Tools: YT Summarizer, DeepImage, Chat AI, Image Generator.
+- Grup Moderation: anti-link, auto-kick, anti-virtex, sensor teks.
+- Fitur komunitas: RPG system, mini games, quote, lirik, anime tools.
+- Panel & VPS Commanding: Task Scheduler, Resource Monitor, Auto Deploy.
 
 ## 🔍 Detail Teknis
 
@@ -240,15 +231,11 @@ Jika berhasil, akan muncul notifikasi:
 > ✅ *IP berhasil ditambahkan ke whitelist*
 
 ✨ Tips:  
-Kamu bisa cek IP VPS kamu dengan command: `curl ifconfig.me`
-
-Maksimal: **5 IP address**
-
-Untuk menambah lebih dari 5 IP, silakan hubungi admin BetaBotz.
-
-Format IPv4 contoh: `103.145.13.42`
-
-Jika server kamu menggunakan **IPv6 aktif**, gunakan format:  
+- Kamu bisa cek IP VPS kamu dengan command: `curl ifconfig.me`
+- Maksimal: **5 IP address**
+- Untuk menambah lebih dari 5 IP, silakan hubungi admin BetaBotz.
+- Format IPv4 contoh: `103.145.13.42`
+- Jika server kamu menggunakan **IPv6 aktif**, gunakan format:  
   `2401:db00:3020:xxxx:xxxx:xxxx:xxxx:xxxx`
 
 #### Deteksi IP VPS kamu:
@@ -271,92 +258,92 @@ Berikut pihak-pihak yang berjasa besar dalam pengembangan dan kelangsungan proye
 
 ## 🧩 Partnership & Ownership
 
-🧑‍💻 **Author**: གྷ 𝑵𝒂𝒓𝒖𝒚𝒂 𝑰𝒛𝒖𝒎𝒊 — [Social Media](https://linkbio.co/naruyaizumi)  
-🧠 **Co-Author**: གྷ 𝑺𝑿𝒁𝒏𝒊𝒈𝒉𝒕𝒎𝒂𝒓 — [WhatsApp](https://wa.me/6281398961382)  
-🤝 **Partners**:  
+- 🧑‍💻 **Author**: གྷ 𝑵𝒂𝒓𝒖𝒚𝒂 𝑰𝒛𝒖𝒎𝒊 — [Social Media](https://linkbio.co/naruyaizumi)  
+- 🧠 **Co-Author**: གྷ 𝑺𝑿𝒁𝒏𝒊𝒈𝒉𝒕𝒎𝒂𝒓 — [WhatsApp](https://wa.me/6281398961382)  
+- 🤝 **Partners**:  
   • Dinn — [WhatsApp](https://wa.me/6289665362039)  
   • Vline — [WhatsApp](https://wa.me/6285770019354)
 
 ### 📦 Library & Framework
 
-🧩 [`@itsukichan/baileys`](https://www.npmjs.com/package/@itsukichan/baileys)  
+- 🧩 [`@itsukichan/baileys`](https://www.npmjs.com/package/@itsukichan/baileys)  
   Fondasi utama komunikasi real-time berbasis WhatsApp Web API (versi modifikasi).
 
-🛠️ **Core & Utility:**
-  [`chalk`](https://www.npmjs.com/package/chalk) – Styling teks CLI
-  [`moment-timezone`](https://www.npmjs.com/package/moment-timezone) – Zona waktu & waktu lokal
-  [`mathjs`](https://www.npmjs.com/package/mathjs) – Evaluasi ekspresi matematika
-  [`yargs`](https://www.npmjs.com/package/yargs) – CLI argument parser
-  [`node-cron`](https://www.npmjs.com/package/node-cron) – Penjadwalan task
-  [`lowdb`](https://www.npmjs.com/package/lowdb) – Database lokal ringan berbasis JSON
+- 🛠️ **Core & Utility:**
+  - [`chalk`](https://www.npmjs.com/package/chalk) – Styling teks CLI
+  - [`moment-timezone`](https://www.npmjs.com/package/moment-timezone) – Zona waktu & waktu lokal
+  - [`mathjs`](https://www.npmjs.com/package/mathjs) – Evaluasi ekspresi matematika
+  - [`yargs`](https://www.npmjs.com/package/yargs) – CLI argument parser
+  - [`node-cron`](https://www.npmjs.com/package/node-cron) – Penjadwalan task
+  - [`lowdb`](https://www.npmjs.com/package/lowdb) – Database lokal ringan berbasis JSON
 
-📚 **Parsing, Text & Web:**
-  [`cheerio`](https://www.npmjs.com/package/cheerio) – HTML parser ala jQuery
-  [`similarity`](https://www.npmjs.com/package/similarity) – Skor kemiripan string
-  [`emoji-unicode`](https://www.npmjs.com/package/emoji-unicode) – Konversi emoji ke unicode
-  [`syntax-error`](https://www.npmjs.com/package/syntax-error) – Deteksi error sintaks JS
+- 📚 **Parsing, Text & Web:**
+  - [`cheerio`](https://www.npmjs.com/package/cheerio) – HTML parser ala jQuery
+  - [`similarity`](https://www.npmjs.com/package/similarity) – Skor kemiripan string
+  - [`emoji-unicode`](https://www.npmjs.com/package/emoji-unicode) – Konversi emoji ke unicode
+  - [`syntax-error`](https://www.npmjs.com/package/syntax-error) – Deteksi error sintaks JS
 
-🖼️ **Media & Visual:**
-  [`sharp`](https://www.npmjs.com/package/sharp) – Pengolahan dan konversi gambar
-  [`canvas`](https://www.npmjs.com/package/canvas) – Render 2D image & teks
-  [`day-canvas`](https://www.npmjs.com/package/day-canvas) – Ekstensi canvas modern
-  [`node-webpmux`](https://www.npmjs.com/package/node-webpmux) – Manipulasi metadata WebP
-  [`wa-sticker-js`](https://www.npmjs.com/package/wa-sticker-js) – Pembuat stiker WhatsApp
-  [`pdf-lib`](https://www.npmjs.com/package/pdf-lib) – Buat & edit PDF secara programatik
-  [`file-type`](https://www.npmjs.com/package/file-type) – Deteksi MIME berdasarkan buffer
+- 🖼️ **Media & Visual:**
+  - [`sharp`](https://www.npmjs.com/package/sharp) – Pengolahan dan konversi gambar
+  - [`canvas`](https://www.npmjs.com/package/canvas) – Render 2D image & teks
+  - [`day-canvas`](https://www.npmjs.com/package/day-canvas) – Ekstensi canvas modern
+  - [`node-webpmux`](https://www.npmjs.com/package/node-webpmux) – Manipulasi metadata WebP
+  - [`wa-sticker-js`](https://www.npmjs.com/package/wa-sticker-js) – Pembuat stiker WhatsApp
+  - [`pdf-lib`](https://www.npmjs.com/package/pdf-lib) – Buat & edit PDF secara programatik
+  - [`file-type`](https://www.npmjs.com/package/file-type) – Deteksi MIME berdasarkan buffer
 
-🔧 **Networking & System:**
-  [`ssh2`](https://www.npmjs.com/package/ssh2) – SSH client untuk VPS dan remote automasi
-  [`ws`](https://www.npmjs.com/package/ws) – WebSocket client & server
-  [`pino`](https://www.npmjs.com/package/pino) – Logger cepat dan ringan
-  [`awesome-phonenumber`](https://www.npmjs.com/package/awesome-phonenumber) – Parsing & validasi nomor telepon
+- 🔧 **Networking & System:**
+  - [`ssh2`](https://www.npmjs.com/package/ssh2) – SSH client untuk VPS dan remote automasi
+  - [`ws`](https://www.npmjs.com/package/ws) – WebSocket client & server
+  - [`pino`](https://www.npmjs.com/package/pino) – Logger cepat dan ringan
+  - [`awesome-phonenumber`](https://www.npmjs.com/package/awesome-phonenumber) – Parsing & validasi nomor telepon
 
-🎥 **YouTube & Media:**
-  [`yt-search`](https://www.npmjs.com/package/yt-search) – Cari video & info YouTube langsung dari Node.js
+- 🎥 **YouTube & Media:**
+  - [`yt-search`](https://www.npmjs.com/package/yt-search) – Cari video & info YouTube langsung dari Node.js
 
-♟️ **Tambahan:**
-  [`chess.js`](https://www.npmjs.com/package/chess.js) – Logika catur untuk fitur hiburan
+- ♟️ **Tambahan:**
+  - [`chess.js`](https://www.npmjs.com/package/chess.js) – Logika catur untuk fitur hiburan
 
-💡 **Base Source: `RyHar`**  
+- 💡 **Base Source: `RyHar`**  
   Struktur awal modular & pendekatan logika yang jadi fondasi bot.
 
-❤️ **Open Source Dependencies**  
+- ❤️ **Open Source Dependencies**  
   Terima kasih untuk semua komunitas open source & kontributor di GitHub 🌐
 
 ### 🌐 Public API Providers
 
-🔐 [BetaBotz API](https://api.betabotz.eu.org)  
-🐾 [Nekorin API](https://api.nekorinn.my.id)  
-🌈 [CloudKuImages](https://cloudkuimages.guru)  
-🎬 [Nauval YTDL API](https://ytdlpyton.nvlgroup.my.id)  
-🎯 [LolHuman API](https://api.lolhuman.xyz)  
-📚 dan berbagai penyedia API publik lainnya...
+- 🔐 [BetaBotz API](https://api.betabotz.eu.org)  
+- 🐾 [Nekorin API](https://api.nekorinn.my.id)  
+- 🌈 [CloudKuImages](https://cloudkuimages.guru)  
+- 🎬 [Nauval YTDL API](https://ytdlpyton.nvlgroup.my.id)  
+- 🎯 [LolHuman API](https://api.lolhuman.xyz)  
+- 📚 dan berbagai penyedia API publik lainnya...
 
 ### 🤖 AI Assistant Integration
 
-🤖 OpenAI ChatGPT
-🌟 Google Gemini AI
-🧠 Blackbox.ai
-👨‍💻 Copilot
+- 🤖 OpenAI ChatGPT
+- 🌟 Google Gemini AI
+- 🧠 Blackbox.ai
+- 👨‍💻 Copilot
 
 Digunakan dalam proses debugging, refactoring, hingga optimalisasi performa bot.
 
 ### 🛡️ Environment & Deployment
 
-🛠️ Runtime: Node.js v24.x.x
-📦 Package Manager: `pnpm` / `npm`
-☁️ VPS: Hostinger, DigitalOcean, dll
-🧳 File Transfer: Termius (SFTP)
-🔧 Process Manager: PM2
+- 🛠️ Runtime: Node.js v24.x.x
+- 📦 Package Manager: `pnpm` / `npm`
+- ☁️ VPS: Hostinger, DigitalOcean, dll
+- 🧳 File Transfer: Termius (SFTP)
+- 🔧 Process Manager: PM2
 
 ### ❤️ Personal Acknowledgement
 
 Terima kasih sebesar-besarnya kepada:
 
-🙏 Tuhan Yang Maha Esa — atas segala kemudahan dan kekuatan selama proses pengembangan.
-👪 Orang tua — untuk dukungan moral dan semangat yang tak pernah berhenti.
-💕 Vior — partner paling setia dan sabar yang selalu ada dalam setiap fase.
-🌍 Seluruh pengguna, pembeli, dan komunitas developer — atas kepercayaan dan kontribusinya dalam perjalanan proyek ini.
+- 🙏 Tuhan Yang Maha Esa — atas segala kemudahan dan kekuatan selama proses pengembangan.
+- 👪 Orang tua — untuk dukungan moral dan semangat yang tak pernah berhenti.
+- 💕 Vior — partner paling setia dan sabar yang selalu ada dalam setiap fase.
+- 🌍 Seluruh pengguna, pembeli, dan komunitas developer — atas kepercayaan dan kontribusinya dalam perjalanan proyek ini.
 
 ## 📜 License
 
