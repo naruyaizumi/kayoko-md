@@ -4,17 +4,23 @@
 
 ![WhatsApp BOT](https://cloudkuimages.guru/uploads/images/WNG2s0zt.jpg)
 
-<p align="center">
 <!-- Project Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"/>
-  <img src="https://img.shields.io/badge/Node.js-v22%2B-brightgreen?logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Based_on-Baileys-orange" alt="Baileys"/>
-  <img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen?logo=whatsapp" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Developer-Naruya%20Izumi-ff69b4" alt="Developer"/>
-</p>
-<!-- Community & Contact -->
-<p align="center">
+  <a href="https://www.apache.org/licenses/LICENSE-2.0">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"/>
+  </a>
+  <a href="https://nodejs.org/en">
+    <img src="https://img.shields.io/badge/Node.js-v22%2B-brightgreen?logo=node.js" alt="Node.js"/>
+  </a>
+  <a href="https://www.npmjs.com/package/@itsukichan/baileys">
+    <img src="https://img.shields.io/badge/Based_on-Baileys-orange" alt="Baileys"/>
+  </a>
+  <a href="https://www.whatsapp.com/">
+    <img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen?logo=whatsapp" alt="Platform"/>
+  </a>
+  <a href="https://github.com/naruyaizumi">
+    <img src="https://img.shields.io/badge/Developer-Naruya%20Izumi-ff69b4" alt="Developer"/>
+  </a>
   <a href="https://www.instagram.com/naruyaizumi">
     <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-orange?logo=instagram" alt="Instagram"/>
   </a>
