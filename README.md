@@ -5,17 +5,16 @@
 ![WhatsApp BOT](https://cloudkuimages.guru/uploads/images/WNG2s0zt.jpg)
 
 <p align="center">
-<!-- Badge & Meta -->
+<!-- Project Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"/>
-  <img src="https://img.shields.io/badge/Node.js-v22%2B-green.svg" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Based%20on-Baileys-orange" alt="Baileys"/>
-  <img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen.svg" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Developer-Naruya%20Izumi-ff69b4.svg" alt="Developer"/>
+  <img src="https://img.shields.io/badge/Node.js-v22%2B-brightgreen?logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Based_on-Baileys-orange" alt="Baileys"/>
+  <img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen?logo=whatsapp" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Developer-Naruya%20Izumi-ff69b4" alt="Developer"/>
 </p>
-
 <!-- Community & Contact -->
-<p>
+<p align="center">
   <a href="https://www.instagram.com/naruyaizumi">
     <img src="https://img.shields.io/badge/Instagram-@naruyaizumi-orange?logo=instagram" alt="Instagram"/>
   </a>
@@ -23,7 +22,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?logo=whatsapp" alt="WhatsApp Channel"/>
   </a>
   <a href="https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi">
-    <img src="https://img.shields.io/badge/Group-Buyer-blueviolet?logo=whatsapp" alt="WhatsApp Group"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Group-blueviolet?logo=whatsapp" alt="WhatsApp Group"/>
   </a>
 </p>
 
