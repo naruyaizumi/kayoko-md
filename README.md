@@ -6,11 +6,12 @@
 
 <p align="center">
 <!-- Badge & Meta -->
-<p>
-  <img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="License"/>
-  <img src="https://img.shields.io/badge/node-%3E=22-brightgreen" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/platform-WhatsApp-darkgreen" alt="Platform"/>
-  <img src="https://img.shields.io/badge/developer-Naruya%20Izumi-ff69b4" alt="Developer"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"/>
+  <img src="https://img.shields.io/badge/Node.js-v22%2B-green.svg" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Based%20on-Baileys-orange" alt="Baileys"/>
+  <img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen.svg" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Developer-Naruya%20Izumi-ff69b4.svg" alt="Developer"/>
 </p>
 
 <!-- Community & Contact -->
