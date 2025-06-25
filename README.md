@@ -32,6 +32,23 @@
   </a>
 </p>
 </div>
+## 📋 Table of Contents
+
+- [🏷️ Badges & Info](#-kayoko--whatsapp-bot)
+- [📖 Deskripsi](#-kayoko--whatsapp-md-script)
+- [📂 Fitur Utama](#-fitur-utama)
+- [🔥 Fitur Populer](#-fitur-populer)
+- [⚙️ Detail Teknis](#-detail-teknis)
+- [💸 Harga & Lisensi](#-harga--lisensi)
+- [📞 Kontak & Informasi](#-kontak--informasi)
+- [📦 Struktur & Ukuran Folder](#-struktur-ukuran-folder)
+- [🧱 Struktur Proyek](#-project-structure)
+- [🚀 Script Setup & Deployment Guide](#-script-setup--deployment-guide)
+- [🔐 Setting API Key & Whitelist IP (BetaBotz)](#-setting-api-key--whitelist-ip---betabotz)
+- [💝 Thanks & Credits](#-thanks--credits)
+- [📚 Library & Framework](#-library--framework)
+- [🌐 Public API Providers](#-public-api-providers)
+- [🌸 Arigatou Ne~](#-arigatou-ne)
 
 # ✨ Kayoko – WhatsApp MD Script
 
@@ -68,16 +85,22 @@
 
 ## 💰 Harga & Lisensi
 
-**Rp 80.000,-** (sekali bayar)  
-✅ *Lifetime akses + update fitur terbaru*
+💸 **Harga:** Rp 80.000,- (sekali bayar, tanpa biaya bulanan)  
+🔓 **Akses:** Lifetime Access + Free Feature Updates  
+📜 **Lisensi:** Apache License 2.0 – *Source Code terbuka, bebas dipelajari dan dikembangkan sendiri*  
+❗ **Catatan:** Pembelian bersifat final. Tidak ada sistem refund. Pastikan sudah mencoba demo/fitur sebelumnya.
 
 ## 🔗 Kontak & Informasi
 
-🌐 Link: [naruyaizumi](https://linkbio.co/naruyaizumi)
-📬 Email: sexystyle088@gmail.com
+🌐 **Link Bio**: [naruyaizumi](https://linkbio.co/naruyaizumi)  
+📧 **Email Support**: `sexystyle088@gmail.com`  
+📱 **WhatsApp Owner**: [Klik di sini](https://wa.me/40766498692)  
+📣 **Channel WA Update**: [Join Channel](https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03)  
+👥 **Grup Komunitas**: [Gabung Grup WhatsApp](https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi)
+📷 **Instagram**: [@naruyaizumi](https://instagram.com/naruyaizumi)
 
-*Beli sekali, pakai seumur hidup.*  
-Support API lengkap, fitur ratusan, dukungan komunitas developer — semua dalam satu script: **Kayoko.**
+Untuk pertanyaan teknis, bug, atau masukan, kamu bisa langsung kirim lewat email atau DM Instagram.  
+Kita juga punya grup komunitas aktif dan channel update resmi 💌✨
 
 ## 📊 Struktur Ukuran Folder
 
