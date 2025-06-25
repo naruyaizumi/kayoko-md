@@ -97,14 +97,8 @@ Berikut ini struktur direktori utama dari **Kayoko** dan deskripsinya:
 | Lokasi / File             | Deskripsi                                                                 |
 |---------------------------|---------------------------------------------------------------------------|
 | `lib/`                    | Kumpulan library internal: leveling, converter, logs, tools game, dll     |
-| ├── `convert.js`          | Modul konversi media/file                                                 |
-| ├── `scrape.js`           | Modul scraping data                                                       |
-| ├── `sticker.js`          | Modul utilitas stiker                                                     |
 | `plugins/`                | Direktori semua command/plugin bot (~800+ plugin)                         |
 | `src/`                    | Aset tambahan seperti gambar & font untuk fitur media                     |
-| ├── `font/`               | Folder khusus font untuk keperluan canvas/gambar                          |
-| ├── `kertas/`             | Template kertas tulis                                                     |
-| ├── `denied.jpg`          | Gambar default untuk penolakan/peringatan                                 |
 | `tmp/`                    | Folder penyimpanan buffer media sementara                                |
 | `config.js`               | Konfigurasi utama bot (prefix, session name, dsb)                         |
 | `database.json`           | File database lokal berbasis JSON                                        |
@@ -113,7 +107,6 @@ Berikut ini struktur direktori utama dari **Kayoko** dan deskripsinya:
 | `LICENSE`                 | Lisensi proyek (Apache 2.0 / Proprietary)                                |
 | `main.js`                 | File boot awal sebelum handler dimuat                                    |
 | `package.json`            | Metadata proyek dan daftar dependencies                                   |
-| `README.md`               | Panduan pengguna dan dokumentasi proyek                                  |
 
 # 🚀 Script Setup & Deployment Guide
 
@@ -173,8 +166,7 @@ pm2 start index.js --name="kayoko"
 
 ### 3. Auto restart saat reboot
 ```bash
-pm2 save
-pm2 startup
+pm2 save && pm2 startup
 ```
 
 ## 📌 Tips Tambahan:
