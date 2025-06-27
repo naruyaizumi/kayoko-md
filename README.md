@@ -35,7 +35,6 @@
 
 ## 📋 Table of Contents
 
-- [🏷️ Badges & Info](#-kayoko--whatsapp-bot)
 - [📖 Deskripsi](#-kayoko--whatsapp-md-script)
 - [📂 Fitur Utama](#-fitur-utama)
 - [🔥 Fitur Populer](#-fitur-populer)
