@@ -382,9 +382,8 @@ is strictly **prohibited** and may result in legal action.
 
 ![naruyaizumi](https://cloudkuimages.guru/uploads/images/SLmZHi1j.jpg)
 
-Kamu udah sampai di akhir dokumentasi~  
-Semoga semua fitur dan fungsi yang kamu baca bisa bermanfaat buat project-mu~  
-Kalau masih ada yang bikin bingung, langsung aja gabung ke grup WhatsApp buat tanya-tanya~ 🫶🏻✨
+Kamu udah sampai di akhir dokumentasi~
+Kalau masih ada yang bikin bingung, langsung aja chat kontak WhatsApp di bawah buat tanya-tanya~ 🫶🏻✨
 
 > 📖 Dokumentasi ini disusun karena gabut, semangat ngoding, dan jangan lupa makan 🍓
 
