@@ -33,6 +33,27 @@
 </p>
 </div>
 
+## 📝 **Changelog 2 Juli 2025**
+📦 `Update Fitur & Perbaikan Sistem`
+🔧 *Perbaikan (Fixes):*
+1. Perbaikan Whitespace saat database.json tidak ditemukan
+2. Perbaikan fungsi auto reset limit pengguna
+3. Perbaikan fitur Kerang Ajaib agar tidak error
+4. Perbaikan alasan saat terjadi disconnect WhatsApp
+5. Perbaikan sistem restart
+6. Perbaikan struktur launcher index.js
+7. Dan lain-lain
+
+🌱 *Fitur Baru & Penyesuaian (Additions & Adjustments):*
+1. Penambahan fitur GrowGarden lengkap dengan notifikasi otomatis setiap 6 jam
+2. Penyesuaian fitur Pixelcut Tools
+3. Penambahan fitur YouTube Advanced Downloader
+4. Penyesuaian fitur Store (Toko Digital)
+5. Penyesuaian sistem handler agar lebih stabil
+6. Penambahan sistem Blacklist untuk jpm dan broadcast
+7. Penambahan Text to Img NSFW
+8. Dan lain-lain
+
 ## 📋 Table of Contents
 
 - [📖 Deskripsi](#-kayoko--whatsapp-md-script)
@@ -382,8 +403,9 @@ is strictly **prohibited** and may result in legal action.
 
 ![naruyaizumi](https://cloudkuimages.guru/uploads/images/SLmZHi1j.jpg)
 
-Kamu udah sampai di akhir dokumentasi~
-Kalau masih ada yang bikin bingung, langsung aja chat kontak WhatsApp di bawah buat tanya-tanya~ 🫶🏻✨
+Kamu udah sampai di akhir dokumentasi~  
+Semoga semua fitur dan fungsi yang kamu baca bisa bermanfaat buat project-mu~  
+Kalau masih ada yang bikin bingung, langsung aja gabung ke grup WhatsApp buat tanya-tanya~ 🫶🏻✨
 
 > 📖 Dokumentasi ini disusun karena gabut, semangat ngoding, dan jangan lupa makan 🍓
 
