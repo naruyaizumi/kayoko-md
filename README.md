@@ -35,6 +35,7 @@
 
 ## 📝 **Changelog 2 Juli 2025**
 📦 `Update Fitur & Perbaikan Sistem`
+
 🔧 *Perbaikan (Fixes):*
 1. Perbaikan Whitespace saat database.json tidak ditemukan
 2. Perbaikan fungsi auto reset limit pengguna
