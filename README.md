@@ -33,27 +33,8 @@
 </p>
 </div>
 
-## 📝 **Changelog 2 Juli 2025**
-📦 `Update Fitur & Perbaikan Sistem`
-
-🔧 *Perbaikan (Fixes):*
-1. Perbaikan Whitespace saat database.json tidak ditemukan
-2. Perbaikan fungsi auto reset limit pengguna
-3. Perbaikan fitur Kerang Ajaib agar tidak error
-4. Perbaikan alasan saat terjadi disconnect WhatsApp
-5. Perbaikan sistem restart
-6. Perbaikan struktur launcher index.js
-7. Dan lain-lain
-
-🌱 *Fitur Baru & Penyesuaian (Additions & Adjustments):*
-1. Penambahan fitur GrowGarden lengkap dengan notifikasi otomatis setiap 6 jam
-2. Penyesuaian fitur Pixelcut Tools
-3. Penambahan fitur YouTube Advanced Downloader
-4. Penyesuaian fitur Store (Toko Digital)
-5. Penyesuaian sistem handler agar lebih stabil
-6. Penambahan sistem Blacklist untuk jpm dan broadcast
-7. Penambahan Text to Img NSFW
-8. Dan lain-lain
+# 🥳 Coming Soon in September
+📍 **Tersedia Secara Gratis Full Open Source**  
 
 ## 📋 Table of Contents
 
@@ -73,6 +54,7 @@
 - [🌸 Arigatou Ne~](#-arigatou-ne)
 
 # ✨ Kayoko – WhatsApp MD Script
+
 
 🔐 **Secure. Modular. API-Powered.**  
 💡 Dirancang untuk developer, reseller, dan pengguna WhatsApp bot tingkat lanjut yang menginginkan stabilitas, kecepatan, dan struktur kode bersih.
@@ -358,9 +340,8 @@ Berikut pihak-pihak yang berjasa besar dalam pengembangan dan kelangsungan proye
 ### 🌐 Public API Providers
 
 - 🔐 [BetaBotz API](https://api.betabotz.eu.org)  
-- 🐾 [Nekorin API](https://api.nekorinn.my.id)  
+- 🐾 [Nekolabs API](https://nekolabs.my.id)  
 - 🌈 [CloudKuImages](https://cloudkuimages.guru)  
-- 🎬 [Nauval YTDL API](https://ytdlpyton.nvlgroup.my.id)  
 - 🎯 [LolHuman API](https://api.lolhuman.xyz)  
 - 📚 dan berbagai penyedia API publik lainnya...
 
@@ -368,8 +349,6 @@ Berikut pihak-pihak yang berjasa besar dalam pengembangan dan kelangsungan proye
 
 - 🤖 OpenAI ChatGPT
 - 🌟 Google Gemini AI
-- 🧠 Blackbox.ai
-- 👨‍💻 Copilot
 
 Digunakan dalam proses debugging, refactoring, hingga optimalisasi performa bot.
 
@@ -387,7 +366,6 @@ Terima kasih sebesar-besarnya kepada:
 
 - 🙏 Tuhan Yang Maha Esa — atas segala kemudahan dan kekuatan selama proses pengembangan.
 - 👪 Orang tua — untuk dukungan moral dan semangat yang tak pernah berhenti.
-- 💕 Vior — partner paling setia dan sabar yang selalu ada dalam setiap fase.
 - 🌍 Seluruh pengguna, pembeli, dan komunitas developer — atas kepercayaan dan kontribusinya dalam perjalanan proyek ini.
 
 ## 📜 License
@@ -410,6 +388,6 @@ Kalau masih ada yang bikin bingung, langsung aja gabung ke grup WhatsApp buat ta
 
 > 📖 Dokumentasi ini disusun karena gabut, semangat ngoding, dan jangan lupa makan 🍓
 
-📬 Kontak Developer: [WhatsApp](https://wa.me/40766498692) • [Instagram](https://instagram.com/naruyaizumi)
+📬 Kontak Developer: [WhatsApp](https://wa.me/31629155460) • [Instagram](https://instagram.com/naruyaizumi)
 
 ✨ Powered by: `IZUMI` 🦄
