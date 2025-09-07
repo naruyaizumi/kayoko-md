@@ -29,7 +29,6 @@
 - [⚙️ Technical Details](#-technical-details)
 - [📞 Contact & Information](#-contact--information)
 - [🧱 Project Structure](#-project-structure)
-- [🔐 Setting API Key & Whitelist IP (BetaBotz)](#-setting-api-key--whitelist-ip---betabotz)
 - [💝 Thanks & Credits](#-thanks--credits)
 - [🌸 Arigatou Ne~](#-arigatou-ne)
 
@@ -92,66 +91,6 @@ This is the main directory structure of **Liora** and its description:
 | `LICENSE`                 | The project license (Apache 2.0 / Proprietary)                               |
 | `main.js`                 | The initial boot file loaded before the handler                              |
 | `package.json`            | Project metadata and a list of dependencies                                  |
-
-## 🔐 Setting API Key & Whitelist IP - BetaBotz
-
-📌 **Initial Steps:**
-1. Visit: [api.betabotz.eu.org](https://api.betabotz.eu.org)
-2. Log in to your account (Use the registered number + email)
-
-### 🔑 Get Your API Key
-
-1. Go to the **Profile** menu.
-2. Copy the `Apikey` section — Example: `liora`
-
-### 🌐 Whitelist IP (Required to Access the API)
-
-To enable the IP address protection feature so that only specific IPs can access your API, follow these 5 easy steps:
-
-### 🧭 Step 1 – Enter the Dashboard
-![1](https://files.catbox.moe/l0j028.jpg)
-Log in to your account at [Betabotz dashboard](https://betabotz.eu.org) and click the **profile logo** in the top right corner.
-
-### 🧭 Step 2 – Open the Settings Menu
-![2](https://files.catbox.moe/8rgwhf.jpg)
-Scroll down, find the **Settings** section, and click the **Choose an option** dropdown.
-
-### 🧭 Step 3 – Select “Whitelist IP”
-![3](https://files.catbox.moe/o7y7xk.jpg)
-From the list of options that appear, select **Whitelist IP** (it's at the bottom).
-
-### 🧭 Step 4 – Enter Your IP Address
-![4](https://files.catbox.moe/j5rj89.jpg)
-Fill in the field with your VPS IP. The format must be valid, for example: `192.168.1.1`.
-📌 *A maximum of 5 IP addresses can be added.*
-
-### 🧭 Step 5 – Click "Add to Whitelist"
-![5](https://files.catbox.moe/qfddyc.jpg)
-Once filled, click the green **Add to Whitelist** button.
-If successful, a notification will appear:
-> ✅ *IP successfully added to whitelist*
-
-✨ Tips:
-- You can check your VPS IP with the command: `curl ifconfig.me`
-- Maximum: **5 IP addresses**
-- To add more than 5 IPs, please contact the BetaBotz admin.
-- IPv4 format example: `103.145.13.42`
-- If your server uses **active IPv6**, use the format:
-  `2401:db00:3020:xxxx:xxxx:xxxx:xxxx:xxxx`
-
-#### Detect your VPS IP:
-```bash
-# View IPv4
-curl -s ipv4.icanhazip.com
-
-# View IPv6
-curl -s ipv6.icanhazip.com
-```
-
-## 📢 Tips:
-Use IPv4 only if your VPS does not support IPv6.
-
-If your VPS IP changes (e.g., after a cloud VPS restart), you will need to re-whitelist the IP.
 
 ## 💝 Thanks & Credits
 
