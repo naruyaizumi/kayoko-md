@@ -155,8 +155,6 @@ is strictly **prohibited** and may result in legal action.
 
 ## 🌸 Arigatou ne~!
 
-![naruyaizumi](https://cloudkuimages.guru/uploads/images/SLmZHi1j.jpg)
-
 You've reached the end of the documentation~
 Hopefully, all the features and functions you've read about can be useful for your project~
 If anything is still confusing, feel free to join the WhatsApp group to ask questions~ 🫶🏻✨
